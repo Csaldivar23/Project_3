@@ -1,0 +1,38 @@
+disaster_subtype_id,disaster_subtype
+subtype1,Ground movement
+subtype2,Tropical cyclone
+subtype3,Storm (General)
+subtype4,Cold wave
+subtype5,Flash flood
+subtype6,Riverine flood
+subtype7,Blizzard/Winter storm
+subtype8,Ash fall
+subtype9,Landslide (wet)
+subtype10,Severe weather
+subtype11,Mudslide
+subtype12,Tornado
+subtype13,Forest fire
+subtype14,Hail
+subtype15,Lightning/Thunderstorms
+subtype16,Heat wave
+subtype17,Avalanche (wet)
+subtype18,Flood (General)
+subtype19,Landslide (dry)
+subtype20,Tsunami
+subtype21,"Land fire (Brush, Bush, Pasture)"
+subtype22,Drought
+subtype23,Extra-tropical storm
+subtype24,Severe winter conditions
+subtype25,Wildfire (General)
+subtype26,Coastal flood
+subtype27,Rockfall (dry)
+subtype28,Sand/Dust storm
+subtype29,Rockfall (wet)
+subtype30,Avalanche (dry)
+subtype31,Volcanic activity (General)
+subtype32,Lava flow
+subtype33,Storm surge
+subtype34,Derecho
+subtype35,Pyroclastic flow
+subtype36,Glacial lake outburst flood
+subtype37,Lahar

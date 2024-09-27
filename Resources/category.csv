@@ -1,0 +1,11 @@
+disaster_type_id,disaster_type
+type1,Earthquake
+type2,Storm
+type3,Extreme temperature
+type4,Flood
+type5,Volcanic activity
+type6,Mass movement (wet)
+type7,Wildfire
+type8,Mass movement (dry)
+type9,Drought
+type10,Glacial lake outburst flood
