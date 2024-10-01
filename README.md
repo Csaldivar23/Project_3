@@ -36,3 +36,5 @@ The project requirements are as follows:
 - EM-DAT - The International Disaster Database - Centre for Research on the Epidemiology of Disasters (CRED)
 
   Link: https://www.emdat.be/
+
+  Glossary:	https://doc.emdat.be/docs/data-structure-and-content/emdat-public-table/
