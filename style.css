@@ -1,0 +1,10 @@
+/* Make the map fill the entire screen */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#map {
+    height: 90vh; /* Adjust as needed */
+    width: 100%;
+}
