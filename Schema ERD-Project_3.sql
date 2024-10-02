@@ -1,4 +1,5 @@
-﻿
+
+
 CREATE TABLE "Natural_Disaster" (
     "DisNo." varchar(100)UNIQUE   NOT NULL,
     "Disaster_Type_id" varchar(100)   NOT NULL,
@@ -63,15 +64,4 @@ CREATE TABLE "Subcategory" (
     "Disaster_subtype" varchar(100)   NOT NULL
 );
 
---ALTER TABLE "Category" ADD CONSTRAINT "fk_Category_Disaster_Type_id" FOREIGN KEY("Disaster_Type_id")
---REFERENCES "Natural_Disaster" ("Disaster_Type_id");
-
---ALTER TABLE "Damage" ADD CONSTRAINT "fk_Damage_DisNo." FOREIGN KEY("DisNo.")
---REFERENCES "Natural_Disaster" ("DisNo.");
-
---ALTER TABLE "Lives_Affected" ADD CONSTRAINT "fk_Lives_Affected_DisNo." FOREIGN KEY("DisNo.")
---REFERENCES "Natural_Disaster" ("DisNo.");
-
---ALTER TABLE "Subcategory" ADD CONSTRAINT "fk_Subcategory_Disaster_subtype_id" FOREIGN KEY("Disaster_subtype_id")
---REFERENCES "Natural_Disaster" ("Disaster_Subtype_id");
 
